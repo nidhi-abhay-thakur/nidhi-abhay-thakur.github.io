@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research experience across synaptic plasticity, epilepsy, brain injury, and molecular neuroendocrinology.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [electrophysiology, neurobehaviour, molecular]
 horizontal: false
 ---
 

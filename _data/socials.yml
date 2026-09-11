@@ -2,8 +2,8 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/Nidhi_A_Thakur_CV.pdf # path to your CV PDF file
-email: # TODO: add your email address
-linkedin_username: # TODO: add your LinkedIn username (the part after /in/ in your profile URL)
+email: nidhiabhay.thakur@niser.ac.in # your email address
+linkedin_username: nidhi-t-5a1921222 # your LinkedIn username (the part after /in/ in your profile URL)
 rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: # your Google Scholar ID — add once you have a Scholar profile
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
