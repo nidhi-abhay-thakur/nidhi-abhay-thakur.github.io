@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-06-01 09:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started a summer internship at the Epilepsy Neurobiology Lab, AIIMS Delhi, investigating the role of the estrogen/progesterone ratio in temporal lobe epilepsy.
